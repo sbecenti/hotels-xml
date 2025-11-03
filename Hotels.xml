@@ -27,7 +27,6 @@
 
   <Hotel NearestAirport="Phoenix-Mesa Gateway">
     <Name>Courtyard by Marriott Tempe Downtown</Name>
-    <Phone>480-966-2800</Phone>
     <Address>
       <Number>601</Number>
       <Street>S Ash Ave</Street>
@@ -35,6 +34,7 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Phone>480-966-2800</Phone>
   </Hotel>
 
   <Hotel NearestAirport="Sky Harbor" Rating="4.3">
@@ -134,4 +134,5 @@
     <Phone>480-968-2424</Phone>
   </Hotel>
 </Hotels>
+
 
