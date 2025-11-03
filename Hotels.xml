@@ -2,8 +2,6 @@
 <Hotels>
   <Hotel NearestAirport="Sky Harbor" Rating="4.2">
     <Name>Westin</Name>
-    <Phone>480-968-8885</Phone>
-    <Phone>800-937-8461</Phone>
     <Address>
       <Number>11</Number>
       <Street>E.7th St</Street>
@@ -11,11 +9,12 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
   </Hotel>
 
   <Hotel NearestAirport="Sky Harbor" Rating="4.5">
     <Name>Tempe Mission Palms</Name>
-    <Phone>480-894-1400</Phone>
     <Address>
       <Number>60</Number>
       <Street>E 5th St</Street>
@@ -23,6 +22,7 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Phone>480-894-1400</Phone>
   </Hotel>
 
   <Hotel NearestAirport="Phoenix-Mesa Gateway">
@@ -39,7 +39,6 @@
 
   <Hotel NearestAirport="Sky Harbor" Rating="4.3">
     <Name>Graduate Tempe</Name>
-    <Phone>480-967-9431</Phone>
     <Address>
       <Number>225</Number>
       <Street>E Apache Blvd</Street>
@@ -47,11 +46,11 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Phone>480-967-9431</Phone>
   </Hotel>
 
   <Hotel NearestAirport="Sky Harbor">
     <Name>Omni Tempe Hotel at ASU</Name>
-    <Phone>480-642-6140</Phone>
     <Address>
       <Number>7</Number>
       <Street>E University Dr</Street>
@@ -59,11 +58,11 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Phone>480-642-6140</Phone>
   </Hotel>
 
   <Hotel NearestAirport="Sky Harbor" Rating="4.1">
     <Name>AC Hotel Phoenix Tempe Downtown</Name>
-    <Phone>480-642-6140</Phone>
     <Address>
       <Number>100</Number>
       <Street>E Rio Salado Pkwy</Street>
@@ -71,11 +70,11 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Phone>480-642-6140</Phone>
   </Hotel>
 
   <Hotel NearestAirport="Sky Harbor">
     <Name>Canopy by Hilton Tempe Downtown</Name>
-    <Phone>480-676-5000</Phone>
     <Address>
       <Number>108</Number>
       <Street>E University Dr</Street>
@@ -83,12 +82,11 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Phone>480-676-5000</Phone>
   </Hotel>
 
   <Hotel NearestAirport="Sky Harbor" Rating="4.0">
     <Name>Residence Inn Tempe Downtown</Name>
-    <Phone>480-967-2300</Phone>
-    <Phone>888-236-2427</Phone>
     <Address>
       <Number>510</Number>
       <Street>S Forest Ave</Street>
@@ -96,11 +94,12 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Phone>480-967-2300</Phone>
+    <Phone>888-236-2427</Phone>
   </Hotel>
 
   <Hotel NearestAirport="Sky Harbor">
     <Name>Hyatt Place Tempe Airport</Name>
-    <Phone>480-804-9544</Phone>
     <Address>
       <Number>1413</Number>
       <Street>W Rio Salado Pkwy</Street>
@@ -108,11 +107,11 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Phone>480-804-9544</Phone>
   </Hotel>
 
   <Hotel NearestAirport="Sky Harbor" Rating="4.4">
     <Name>Moxy Phoenix Tempe</Name>
-    <Phone>480-968-3451</Phone>
     <Address>
       <Number>1333</Number>
       <Street>S Rural Rd</Street>
@@ -120,11 +119,11 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Phone>480-968-3451</Phone>
   </Hotel>
 
   <Hotel NearestAirport="Sky Harbor">
     <Name>Hilton Garden Inn Phoenix/Tempe ASU Area</Name>
-    <Phone>480-968-2424</Phone>
     <Address>
       <Number>2102</Number>
       <Street>E Rio Salado Pkwy</Street>
@@ -132,5 +131,7 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Phone>480-968-2424</Phone>
   </Hotel>
 </Hotels>
+
