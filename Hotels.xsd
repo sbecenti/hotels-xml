@@ -9,7 +9,6 @@
           <xs:complexType>
             <xs:sequence>
               <xs:element name="Name" type="xs:string"/>
-              <xs:element name="Phone" type="xs:string" maxOccurs="unbounded"/>
               <xs:element name="Address">
                 <xs:complexType>
                   <xs:sequence>
@@ -21,6 +20,7 @@
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
+              <xs:element name="Phone" type="xs:string" maxOccurs="unbounded"/>
             </xs:sequence>
 
             <!-- Attributes -->
@@ -33,3 +33,4 @@
   </xs:element>
 
 </xs:schema>
+
